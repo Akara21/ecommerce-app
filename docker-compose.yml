@@ -1,0 +1,8 @@
+version: "3"
+services:
+  angular-nginx:
+    build:
+      context: ./frontend/angular-ecommerce
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
