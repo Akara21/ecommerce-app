@@ -1,10 +1,10 @@
 # DreamChairs
 
-As part of the elective module Object Oriented Software Development, we as a team developed the online store DreamChairs.
+As part of the elective module Object Oriented Software Development, I developed the online store DreamChairs.
 
 ## Description
 
-DreamChairs focuses on the sale of chairs of various categories. Our goal was not just to develop an ordinary online store, but to create a platform that combines style, comfort and quality and offers customers an excellent user experience.
+DreamChairs focuses on the sale of chairs of various categories. The goal was not just to develop an ordinary online store, but to create a platform that combines style, comfort and quality and offers customers an excellent user experience.
 
 ## Preview
 
@@ -17,9 +17,6 @@ DreamChairs focuses on the sale of chairs of various categories. Our goal was no
 ![Screenshot 2024-01-13 at 11 57 12](https://github.com/Akara21/ecommerce-app/assets/70690206/574dbe7a-564a-4638-a863-7728779cca44)
 ![Screenshot 2024-01-13 at 11 57 25](https://github.com/Akara21/ecommerce-app/assets/70690206/029129f7-0c73-4b91-99ff-7a7a930e478e)
 
-## Access via AWS
-
-http://dreamchairs.s3-website.eu-central-1.amazonaws.com/
 
 ## Author
-* Emel Simsek, Faruk Kara, Ngoc My Linh Nguyen
+* Faruk Kara
